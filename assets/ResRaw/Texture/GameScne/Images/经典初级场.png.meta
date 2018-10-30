@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "43c8d2b4-5935-43ca-9194-dbe1bc72a6f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "经典初级场": {
+      "ver": "1.0.3",
+      "uuid": "6ac1a511-e316-4fe4-92b2-483dbc983266",
+      "rawTextureUuid": "43c8d2b4-5935-43ca-9194-dbe1bc72a6f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 216,
+      "height": 39,
+      "rawWidth": 216,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

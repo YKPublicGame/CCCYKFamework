@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "573f0cb5-18f8-4fe7-b532-c5338bd2dc75",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "出牌": {
+      "ver": "1.0.3",
+      "uuid": "399f66ac-21b7-4364-899d-ed129c6312d7",
+      "rawTextureUuid": "573f0cb5-18f8-4fe7-b532-c5338bd2dc75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 42,
+      "rawWidth": 80,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
